@@ -1,4 +1,4 @@
-sentence = input("введите предложение:")
+sentence = input("enter a sentence:")
 print(sentence.replace(" ", "-"))
 new_list = sentence.split(sep=" ")
 new_sentence = "-".join(new_list)
