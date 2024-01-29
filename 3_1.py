@@ -1,0 +1,5 @@
+sentence = input("введите предложение:")
+print(sentence.replace(" ", "-"))
+new_list = sentence.split(sep=" ")
+new_sentence = "-".join(new_list)
+print(new_sentence)
