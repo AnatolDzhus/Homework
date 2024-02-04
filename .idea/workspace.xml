@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/3_3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/3_4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/4_3.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -50,7 +53,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.4_1">
+  <component name="RunManager">
     <configuration name="4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="ENV_FILES" value="" />
@@ -97,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_2" />
         <item itemvalue="Python.4_1" />
+        <item itemvalue="Python.4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +217,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706814020208</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add file">
+      <option name="closed" value="true" />
+      <created>1706967488772</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706967488772</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add file">
+      <option name="closed" value="true" />
+      <created>1706967562513</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706967562513</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
