@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file">
+      <change afterPath="$PROJECT_DIR$/5_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3_1.executor": "Run",
+    "Python.3_2.executor": "Run",
+    "Python.3_3.executor": "Run",
+    "Python.3_4.executor": "Run",
+    "Python.4_1.executor": "Run",
+    "Python.4_2.executor": "Run",
+    "Python.4_3.executor": "Run",
+    "Python.5_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
@@ -233,7 +234,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706967562513</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707066708630</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707066708630</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707066786881</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707066786881</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707067666543</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707067666543</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
