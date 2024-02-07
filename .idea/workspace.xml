@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file">
-      <change afterPath="$PROJECT_DIR$/5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,9 @@
     "Python.4_2.executor": "Run",
     "Python.4_3.executor": "Run",
     "Python.5_1.executor": "Run",
+    "Python.5_2.executor": "Run",
+    "Python.5_3.executor": "Run",
+    "Python.5_4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -266,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707164399976</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707165144759</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1707165144759</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707241612755</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1707241612755</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
