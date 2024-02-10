@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file">
-      <change afterPath="$PROJECT_DIR$/6_5.py" afterDir="false" />
-    </list>
+    <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -380,7 +378,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707596836394</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707597668680</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1707597668680</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707597691291</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1707597691291</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
