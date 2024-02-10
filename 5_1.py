@@ -11,4 +11,4 @@ while n > i:
         k = k + 1
     else:
         k = k + 1
-        continue
+
