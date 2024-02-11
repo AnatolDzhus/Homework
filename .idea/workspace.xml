@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file" />
+    <list default="true" id="64a480d0-b0d4-402e-84cb-5012571109df" name="Changes" comment="add file">
+      <change afterPath="$PROJECT_DIR$/6_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +61,8 @@
     "Python.6_3.executor": "Run",
     "Python.6_4.executor": "Run",
     "Python.6_5.executor": "Run",
+    "Python.6_6.executor": "Run",
+    "Python.6_7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -394,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707597691291</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add file">
+      <option name="closed" value="true" />
+      <created>1707598026344</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1707598026344</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
