@@ -25,17 +25,17 @@ class Category:
     def update(cls,index,new_name):
         cls.index=index
         cls.new_name=new_name
-        if not len(Category.categories):
+        if not len(Category.categories) and not index:
             Category.categories.append(new_name)
         elif new_name in Category.categories:
             raise ValueError(f"{cls.new_name} already exists")
         elif Category.categories[index]:
             Category.categories.insert(index,new_name)
 
-Category.add("cat1")
-print(Category.categories)
-Category.get(0)
-Category.delete(0)
-print(Category.categories)
+# Category.add("cat1")
+# print(Category.categories)
+# Category.get(0)
+# Category.delete(0)
+# print(Category.categories)
 Category.update(0,"cat1")
 print(Category.categories)
