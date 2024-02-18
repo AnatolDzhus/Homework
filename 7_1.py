@@ -13,7 +13,6 @@ class Car:
         self.count_passenger_seats = count_passenger_seats
         self.is_baby_seat = is_baby_seat
         self.is_busy = is_busy
-        pass
 
     def __str__(self):
         return f"{self.color},{self.count_passenger_seats},{self.is_baby_seat},{self.is_busy}"
