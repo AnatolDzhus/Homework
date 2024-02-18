@@ -20,4 +20,4 @@ class Car:
 
 
 car1 = Car("Green", 4, False)
-print(str(car1))
+print(car1)
