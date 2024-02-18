@@ -13,27 +13,35 @@ class Car:
         self.count_passenger_seats = count_passenger_seats
         self.is_baby_seat = is_baby_seat
         self.is_busy = is_busy
+
     def __str__(self):
         return f"{self.color},{self.count_passenger_seats},{self.is_baby_seat},{self.is_busy}"
+
 
 car1 = Car("Green", 4, True)
 car2 = Car("Grey", 4, True)
 car3 = Car("Blue", 9, True)
 cars = [car1, car2, car3]
 
+
 class Taxi:
     def __init__(self, cars):
         self.cars = cars
+
     def find_car(self, count_passengers, is_baby):
         self.count_passengers = count_passengers
         self.is_baby = is_baby
-        a=set(filter(lambda x: x.count_passenger_seats > count_passengers and x.is_baby_seat >= is_baby and not x.is_busy, cars))
+        a = set(
+            filter(lambda x: x.count_passenger_seats > count_passengers and x.is_baby_seat >= is_baby and not x.is_busy,
+                   cars))
         if not a:
             return None
         else:
-            b=a.pop()
-            b.is_busy=True
+            b = a.pop()
+            b.is_busy = True
             return b
+
+
 all_cars = Taxi(cars)
 print(all_cars.find_car(2, True))
 # print(car1.is_busy)
