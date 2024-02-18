@@ -31,7 +31,6 @@ class Taxi:
     def find_car(self, count_passengers, is_baby):
         self.count_passengers = count_passengers
         self.is_baby = is_baby
-        import random
         a = list(
             filter(lambda x: x.count_passenger_seats > count_passengers and x.is_baby_seat >= is_baby and not x.is_busy,
                    cars))
