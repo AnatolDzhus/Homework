@@ -15,7 +15,10 @@ class Car:
         self.is_busy = is_busy
 
     def __str__(self):
-        return f"{self.color},{self.count_passenger_seats},{self.is_baby_seat},{self.is_busy}"
+        return (f"Color: {self.color},"
+                f"\nPassenger_seats: {self.count_passenger_seats},"
+                f"\nIs_baby_seat: {self.is_baby_seat},"
+                f"\nIs_busy: {self.is_busy}")
 
 
 car1 = Car("Green", 4, False)
